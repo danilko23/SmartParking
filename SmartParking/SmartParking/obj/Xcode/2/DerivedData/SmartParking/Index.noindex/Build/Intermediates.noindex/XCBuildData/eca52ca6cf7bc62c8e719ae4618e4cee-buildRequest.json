@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "424c58a433c6e2f116629655fa31f8b0a28c68229bd7f50470b597d0f55c0b3b"
+    }
+  ],
+  "containerPath" : "/Users/danilkovalchuk/Desktop/cpts322/SmartParking/SmartParking/obj/Xcode/2/SmartParking.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/danilkovalchuk/Desktop/cpts322/SmartParking/SmartParking/obj/Xcode/2/DerivedData/SmartParking/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/danilkovalchuk/Desktop/cpts322/SmartParking/SmartParking/obj/Xcode/2/DerivedData/SmartParking/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/danilkovalchuk/Desktop/cpts322/SmartParking/SmartParking/obj/Xcode/2/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/danilkovalchuk/Desktop/cpts322/SmartParking/SmartParking/obj/Xcode/2/DerivedData/SmartParking/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/danilkovalchuk/Desktop/cpts322/SmartParking/SmartParking/obj/Xcode/2/DerivedData/SmartParking/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/danilkovalchuk/Desktop/cpts322/SmartParking/SmartParking/obj/Xcode/2/DerivedData/SmartParking/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/danilkovalchuk/Desktop/cpts322/SmartParking/SmartParking/obj/Xcode/2/DerivedData/SmartParking/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

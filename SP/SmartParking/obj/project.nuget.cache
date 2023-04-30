@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+6e/t5GXkvfjM21pS7shA7u7mYfBmAxl6i8/Id6zjME/DkJfRvJ0syWGdk/znsDkMubdnKjpshJcmxcc55ECEA==",
+  "success": true,
+  "projectFilePath": "/Users/danilkovalchuk/Desktop/cpts322/SP/SmartParking/SmartParking.csproj",
+  "expectedPackageFiles": [
+    "/Users/danilkovalchuk/.nuget/packages/firebasedatabase.net/4.2.0/firebasedatabase.net.4.2.0.nupkg.sha512",
+    "/Users/danilkovalchuk/.nuget/packages/gmap.net.windowsforms/1.7.5/gmap.net.windowsforms.1.7.5.nupkg.sha512",
+    "/Users/danilkovalchuk/.nuget/packages/litedb/5.0.16/litedb.5.0.16.nupkg.sha512",
+    "/Users/danilkovalchuk/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/danilkovalchuk/.nuget/packages/system.reactive/5.0.0/system.reactive.5.0.0.nupkg.sha512",
+    "/Users/danilkovalchuk/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/danilkovalchuk/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
