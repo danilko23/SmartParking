@@ -1,1 +1,2 @@
-2023-04-29 23:06:33.818 SmartParking[55336:3471527] +[CATransaction synchronize] called within transaction
+2023-04-30 00:51:46.821 SmartParking[62591:3576469] +[CATransaction synchronize] called within transaction
+2023-04-30 00:51:49.839 SmartParking[62591:3576469] +[CATransaction synchronize] called within transaction

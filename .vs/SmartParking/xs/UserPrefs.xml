@@ -3,11 +3,12 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.SmartParking PreferredExecutionTarget="MyMacID" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SmartParking/clasess.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Library/Frameworks/Xamarin.Mac.framework/Versions/9.1.0.5/lib/msbuild/Xamarin.Shared.targets">
     <Files>
       <File FileName="SmartParking/clasess.cs" Line="151" Column="27" />
-      <File FileName="SmartParking/Main.cs" Line="10" Column="1" />
-      <File FileName="SmartParking/Resources/CarData.txt" Line="1" Column="13" />
+      <File FileName="SmartParking/Main.cs" />
+      <File FileName="SmartParking/Resources/CarData.txt" />
+      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Mac/Xamarin.Shared.targets" Line="1157" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,6 +17,7 @@
             <Node name="SmartParking" expanded="True">
               <Node name="Resources" expanded="True" />
               <Node name="BeaconsController.cs" expanded="True" />
+              <Node name="clasess.cs" selected="True" />
               <Node name="ParkingViewController.cs" expanded="True" />
               <Node name="WindowController.cs" expanded="True" />
             </Node>
@@ -27,7 +29,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
